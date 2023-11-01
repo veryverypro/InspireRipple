@@ -7,8 +7,8 @@
 
 ## 产品设计
 <div align="center">
-    <img src="app_design_1.png" width="400" style="margin-right: 10px;">
-    <img src="app_design_2.png" width="400">
+    <img src="ir_design_1.png" width="400" style="margin-right: 10px;">
+    <img src="ir_design_2.png" width="400">
 </div>
 
 **产品名称**：
