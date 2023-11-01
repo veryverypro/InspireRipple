@@ -1,5 +1,16 @@
 **悦记 (InspireRipple) 产品方案**：
 
+## 产品logo
+<div align="center">
+    <img src="ir_logo.png" width="400">
+</div>
+
+## 产品设计
+<div align="center">
+    <img src="app_design_1.png" width="400" style="margin-right: 10px;">
+    <img src="app_design_2.png" width="400">
+</div>
+
 **产品名称**：
 - 中文：悦记
 - 英文：InspireRipple
